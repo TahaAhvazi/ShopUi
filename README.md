@@ -1,4 +1,4 @@
-# myfirstflutterapp
+# Flutter shop Login page with simple animation
 
 A new Flutter project.
 
