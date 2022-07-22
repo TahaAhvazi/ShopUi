@@ -1,6 +1,6 @@
 # Flutter shop Login page with simple animation
 
-A new Flutter project that we use animations in flutter ✌️.
+A new Flutter project that we use animations in flutter ✌️ .
 
 ## Getting Started
 
